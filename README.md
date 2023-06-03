@@ -1,10 +1,13 @@
 👋 Hello developer!
+
 This is one of the many templates available from W3schools. Check our tutorials for frontend development to learn the basics of HTML and CSS. 🦄
 
 🏗 What's next?
+
 Customize this template to make it your own. Remember to make your layout responsive - if you want your site to look good on smaller screens like mobile.
 
 🎨 Where to find everything
+
 External style sheet: The template you chose is built with W3CSS, placed in an external style sheet. You can either replace that style sheet - or keep it simple and leave it in.
 Go to tutorial about W3CSS
 
